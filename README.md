@@ -6,7 +6,7 @@
    <br />
 </div>
 
-# 👋 Hi! I am Be good at:
+# 👋 Hi! I'm good at:
   - Product Design
       > Write Product Requirements Document
 
