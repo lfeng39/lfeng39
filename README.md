@@ -6,12 +6,10 @@
    <br />
 </div>
 
-## Hi there 👋
-
-# Be good at:
+# 👋 Hi there Be good at:
   - Product Design
-     -- Write Product Requirements Document
-     -- Product Prototype Design
+   -- Write Product Requirements Document
+   -- Product Prototype Design
   - UI Design
   - Django + React Develop
 # Study Raspberry PI and Linux
