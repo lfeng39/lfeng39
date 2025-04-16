@@ -8,6 +8,13 @@
 
 ## Hi there 👋
 
+# Be good at:
+## Product Design
+### Write Product Requirements Document
+### Product Prototype Design
+## UI Design
+## Django + React Develop
+
 <!--
 **lfeng39/lfeng39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
