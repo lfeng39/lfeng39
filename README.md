@@ -1,6 +1,4 @@
-![F89wDgUaEAA_nSK](https://github.com/user-attachments/assets/73db1cb4-0315-47f6-b765-613a68c749a8)
-
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> <em>So, what are you waiting for?</em></h2>
+<h2>⚡ <em>So, what are you waiting for?</em></h2>
 
 <div align=center>
    <br />
@@ -15,7 +13,7 @@
       > Product Prototype Design
   - UI Design
   - Django + React Develop
-# I’m currently learning：
+# 🌱 I’m currently learning：
    - Raspberry PI and Linux
    - Quant
    - Accounting
