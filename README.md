@@ -8,12 +8,12 @@
 
 # 👋 Hi! I am Be good at:
   - Product Design
-   > Write Product Requirements Document
+      > Write Product Requirements Document
 
-   > Product Prototype Design
+      > Product Prototype Design
   - UI Design
   - Django + React Develop
-# Study Raspberry PI and Linux
+# I’m currently learning Raspberry PI and Linux
 
 <!--
 **lfeng39/lfeng39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
