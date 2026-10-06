@@ -6,7 +6,7 @@
    <br />
 </div>
 
-(./diagrams/test.drawio.svg)
+![密码重置异常处理流程图](./diagrams/test.drawio.svg)
 
 # 👋 Hi! I'm good at:
   - Product Design
