@@ -6,7 +6,8 @@
    <br />
 </div>
 
-(https://raw.githubusercontent.com/lfeng39/diagrams/1.0.0/test.drawio.svg)
+
+![密码重置异常处理流程图](https://raw.githubusercontent.com/lfeng39/diagrams/1.0.0/test.drawio.svg)
 
 # 👋 Hi! I'm good at:
   - Product Design
